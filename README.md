@@ -25,6 +25,14 @@ Welcome to GrammarGuard, your intelligent solution for refining spoken English t
 2. Send it to GrammarGuard.
 3. Receive instant feedback and corrections.
 
+## TODO list
+- [ ] create telegram bot
+- [ ] configure project
+- [ ] write LLM chatbot with ChainLang
+- [ ] add speech recognition model
+- [ ]
+- [ ]
+
 ## Contribution
 
 If you're passionate about language technology, we welcome contributions to GrammarGuard's development. Join us in improving and expanding the capabilities of this language-enhancing bot.
